@@ -53,7 +53,6 @@ nikita = {
   <img src="https://raw.githubusercontent.com/sokotnyk/sokotnyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> Анимация подтягивается автоматически из твоего графика контрибьюшенов. Чтобы она заработала, нужно один раз настроить GitHub Action — инструкция ниже.
 
 ---
 
@@ -63,7 +62,7 @@ nikita = {
   <a href="mailto:sokotniuknikita@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/твой_юзернейм">
+  <a href="https://t.me/neki905">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/твой-профиль">
