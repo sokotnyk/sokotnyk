@@ -34,9 +34,11 @@ nikita = {
 
 ---
 
-### 🌐 Web Development
+💡 What I Do
 
-I build and style websites with plain **HTML / CSS / JavaScript** — from static landing pages to interactive layouts, no frameworks needed. Comfortable with responsive design, DOM manipulation, core UX principles, and cross-device optimization. Open to freelance work on website layouts, landing pages, and simple web interfaces.
+Programming & Algorithms · C C++ Python Solid foundation in C/C++ from coursework — data structures, algorithms, low-level logic. Use Python for scripting, automation, and general-purpose development.
+
+Web Development · HTML CSS JavaScript Build and style websites with plain HTML/CSS/JS — from static landing pages to interactive layouts, no frameworks needed. Comfortable with responsive design, DOM manipulation, and cross-device optimization.
 
 ---
 
