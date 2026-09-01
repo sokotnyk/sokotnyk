@@ -12,11 +12,9 @@
 nikita = {
     "name":        "Nikita Sokotnyk",
     "age":         18,
-    "university":  "TUKE — Faculty of ...",   # укажи факультет
-    "major":       "Intelligent Systems",
+    "university":  "TUKE — Faculty of Intelligent Systems",
     "languages":   ["C", "C++", "Python", "JavaScript", "HTML", "CSS"],
-    "frameworks":  [],   # добавь, если используешь (React, Flask, Node.js и т.д.)
-    "stack":       [],   # базы данных, инструменты (Git, Linux, MySQL...)
+    "stack":       [Got, Linux],
     "interests":   ["software development", "freelance", "..."],
     "open_to":     "freelance projects & collaborations"
 }
@@ -49,6 +47,5 @@ nikita = {
 
 ### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой-профиль)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/твой-юзернейм)
+[![Email](https://img.shields.io/badge/Email-sokotniuknikita@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sokotniuknikita@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/neki905)
