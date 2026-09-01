@@ -26,7 +26,6 @@ nikita = {
     "university":  "TUKE — Faculty of Electrical Engineering and Informatics",
     "major":       "Intelligent Systems",
     "languages":   ["C", "C++", "Python", "JavaScript", "HTML", "CSS"],
-    "frameworks":  [],   # add if you use any (React, Flask, Node.js, etc.)
     "stack":       ["Git", "Linux"],
     "interests":   ["software development", "web development", "freelance"],
     "open_to":     "freelance projects & collaborations"
@@ -59,7 +58,6 @@ Short description.
   <img src="https://raw.githubusercontent.com/sokotnyk/sokotnyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> This animation is generated automatically from your contribution graph via a GitHub Action.
 
 ---
 
@@ -69,7 +67,7 @@ Short description.
   <a href="mailto:sokotniuknikita@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/neki905">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
