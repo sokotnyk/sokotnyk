@@ -58,7 +58,7 @@ Open to freelance work across all of the above — from small scripts and automa
 **Text Adventure Game** · `C`
 A console-based text adventure. The player explores different locations, finds a key and a sword, reaches a locked room, defeats the monster inside, and rescues the princess. Focused on game logic, state management, and clean console I/O.
 
-**Maze Game** · `C`
+[**Maze Game**](https://github.com/sokotnyk/ncurses-maze-game) · `C`
 A maze game with a full menu system — main menu, level selection, in-game HUD (level, step counter, timer, warnings), win screen, and lose screen. Includes file handling (e.g. loading help text from `help.txt` via a command-line argument) and custom rendering for the maze and UI elements.
 
 [**Arduino Alarm Clock**](https://github.com/sokotnyk/arduino-alarm-clock-uno) · `C` `Arduino Uno Kit 3.0`
