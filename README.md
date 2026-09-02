@@ -72,7 +72,6 @@ A multifunctional alarm clock built on the Arduino Uno Kit 3.0. Features a displ
   <img src="https://raw.githubusercontent.com/sokotnyk/sokotnyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> This animation is generated automatically from your contribution graph via a GitHub Action.
 
 ---
 
