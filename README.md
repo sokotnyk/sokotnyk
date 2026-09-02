@@ -26,7 +26,7 @@
 
 ![Name](https://img.shields.io/badge/Name-Nikita_Sokotnyk-58A6FF?style=for-the-badge)
 ![Age](https://img.shields.io/badge/Age-18-58A6FF?style=for-the-badge)
-![University](https://img.shields.io/badge/TUKE-Faculty_of_EEI-58A6FF?style=for-the-badge)
+![University](https://img.shields.io/badge/TUKE-Faculty_of_FEI-58A6FF?style=for-the-badge)
 ![Major](https://img.shields.io/badge/Major-Intelligent_Systems-58A6FF?style=for-the-badge)
 
 ![Languages](https://img.shields.io/badge/Languages-C_·_C%2B%2B_·_C%23_·_Python_·_JS_·_HTML_·_CSS-1D2B53?style=for-the-badge)
