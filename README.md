@@ -61,7 +61,7 @@ A console-based text adventure. The player explores different locations, finds a
 [**Maze Game**](https://github.com/sokotnyk/ncurses-maze-game) · `C`
 A maze game with a full menu system — main menu, level selection, in-game HUD (level, step counter, timer, warnings), win screen, and lose screen. Includes file handling (e.g. loading help text from `help.txt` via a command-line argument) and custom rendering for the maze and UI elements.
 
-[**Arduino Alarm Clock**](https://github.com/sokotnyk/arduino-alarm-clock-uno) · `C` `Arduino Uno Kit 3.0`
+[**Arduino Alarm Clock**](https://github.com/sokotnyk/arduino-alarm-clock-uno) · `C++` `Arduino Uno Kit 3.0`
 A multifunctional alarm clock built on the Arduino Uno Kit 3.0. Features a display, a real-time clock module, buttons for setting the time, a joystick for easier navigation, and LEDs that indicate the current alarm mode by color. Also includes an air-monitoring mode that reads temperature and humidity from onboard sensors. Submitted as a coursework project and scored 100/100.
 
 ---
