@@ -82,7 +82,7 @@ A multifunctional alarm clock built on the Arduino Uno Kit 3.0. Features a displ
   <a href="mailto:sokotniuknikita@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/neki905">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
